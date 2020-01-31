@@ -1,0 +1,10 @@
+[user]
+	name = ribhuji
+	email = 2018209@iiitdmj.ac.in
+
+
+[http]
+	proxy = http://ibm:place!7ibm20@172.27.16.154:3128/
+	sslVerify = false
+[https]
+	proxy = http://ibm:place!7ibm20@172.27.16.154:3128/
